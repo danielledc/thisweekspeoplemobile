@@ -9,7 +9,7 @@ The page can be viewed at http://subscription-assets.people.com/prod/assets/them
 
 RELEVANT FILES
 
-lp.html - HTML single page application
+lpm.html - HTML single page application
 
 resources/js/script.js - javascript code to get json data, bind event handlers, and handle orientation change of page
 

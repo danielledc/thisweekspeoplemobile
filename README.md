@@ -5,6 +5,7 @@ The People this Week's Issue mobile page is a page promoting each week's People 
 My role on this was as lead developer, developing all HTML, CSS, and Javascript. Note: The getJSON function ONLY was contributed previously by another developer
 
 DEMO
+
 The page can be viewed at http://subscription-assets.people.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/pe-twr-dsktp/lpm.html, and is best viewed on an Android or iPhone mobile device
 
 RELEVANT FILES

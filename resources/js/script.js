@@ -1,7 +1,7 @@
 var showRotateMessage=false;
 var sneakPeekImages=new Array();
 
-//this function is used to append the JSON script to the body, and calls a function to parse through the data
+//this function is used to append the JSON script to the body, and calls a function to parse through the data *contributed by other developer*
 function getJSONP(url, cb_name, cb) {
 		var existing_cb = window[cb_name] || function(){};
 		window[cb_name] = function() {
@@ -115,6 +115,7 @@ $(document).ready(function(){
 	$("#pinterest").click( function() {
 		pinterestPixels();
 	});
+	//Waypoints is a jQuery plugin that allows a custom event, called a waypoint, which executes a function whenever you scroll to an element.
 	
 	$('#screen2').waypoint(function(direction) {
       if (direction=='down'){

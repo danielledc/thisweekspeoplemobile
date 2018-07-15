@@ -1,5 +1,7 @@
 thisweekspeoplemobile
 =====================
+*NOTE: The description and source code in this repository reflects the status of this project as of 2014. Code on the live site may have changed since then.
+
 The People this Week's Issue mobile page is a page promoting each week's People Magazine. This single page application is developed for mobile display, and pulls in json data reflecting the new issue, specifically three page highlights and seven images (three for portrait display, three for landscape display, and the cover image). This data is updated weekly through a separate internal tool. 
 
 My role on this was as lead developer, developing all HTML, CSS, and Javascript. Note: The getJSON function ONLY was contributed previously by another developer
